@@ -1,4 +1,7 @@
-Blog : https://prot3ct3d.wordpress.com
+Personal Blog : https://prot3ct3d.wordpress.com
+
+Writeup on this can be found on https://shalindaweerasinghe.blogspot.com
+
 Author : Shalinda Weerasinghe
 Description : This is for education purpose only !!!
 
