@@ -1,6 +1,6 @@
 Personal Blog : https://prot3ct3d.wordpress.com
 
-Writeup on this can be found on https://shalindaweerasinghe.blogspot.com
+Writeup on this can be found on https://shalindaweerasinghe.blogspot.com/2017/03/lets-go-phishing_19.html
 
 Author : Shalinda Weerasinghe
 Description : This is for education purpose only !!!
